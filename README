@@ -1,0 +1,8 @@
+# go rust web bench
+
+## 目的
+golang rustのweb serverでの性能比較
+
+## 条件
+- GETコマンドでhello worldをreturnのみ
+- それぞれ最もメジャーなフレームワークで評価。golangはgin、rustはrocket
